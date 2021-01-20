@@ -19,6 +19,9 @@ function App() {
         </a>
       </header>
     </div>
+    <div>
+      <p> Ene haragdaj bnuu</p>
+    </div>
   );
 }
 
